@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Index on Mordheim Regelwerk</title>
+    <link>/</link>
+    <description>Recent content in Index on Mordheim Regelwerk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Fri, 18 Dec 2020 16:35:14 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dark Elf Magic</title>
+      <link>/magic/dark_elf_magic.html</link>
+      <pubDate>Fri, 18 Dec 2020 16:35:14 +0100</pubDate>
+      
+      <guid>/magic/dark_elf_magic.html</guid>
+      <description>The Dark Elves are as accomplished practitioners of magic as their arch enemies the High Elves but whereas the High Elves essentially use magic defensively and for the power of good, the Dark Elves utilise the evil powers of Dark Magic a very destructive force indeed.DifficultyName9+1 - DoomboltWhispering an ancient incantation the Sorceress conjures a bolt of pure dark energy and unleashes it from her outstretched hand.</description>
+    </item>
+    
+    <item>
+      <title>Dark Elf Warband</title>
+      <link>/warbands/dark-elves.html</link>
+      <pubDate>Fri, 18 Dec 2020 16:35:14 +0100</pubDate>
+      
+      <guid>/warbands/dark-elves.html</guid>
+      <description>Dark Ones of Naggaroth Many dare not speak of the High Elves’ evil kin, the Druchii, or the Dark Elves as they are better known. They are a race for whom pain and pleasure have been pushed to the ultimate extreme. They leave destruction and despair in their wake and are more greatly feared than the barbaric Orcs and no less so than the tainted forces of Chaos and Undeath. To the victims of the Dark Elves it is the fortunate to whom a quick death is gifted for this twisted folk roam the Known World in search of slaves.</description>
+    </item>
+    
+  </channel>
+</rss>
